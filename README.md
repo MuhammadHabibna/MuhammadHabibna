@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad Habibna
 
-<!--
-**MuhammadHabibna/MuhammadHabibna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science student at Universitas Negeri Surabaya and a Google Student Ambassador.
 
-Here are some ideas to get you started:
-
+### About Me
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Deep Learning and NLP.
+- 💬 Ask me about Python or Data Analysis.
+- 📫 Reach me at: https://www.linkedin.com/in/muhammad-habib-nur-aiman-b82b07313/
 -->
+
+![Stats Habibna](https://github-readme-stats.vercel.app/api?username=MuhammadHabibna&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHabibna&layout=compact&theme=radical)
